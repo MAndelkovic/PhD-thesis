@@ -1,6 +1,15 @@
 # O(N) numerical methods for investigating graphene heterostructures and moire patterns
 
-In the research field of two-dimensional materials, computational modelling proves to be crucial in examining the electronic properties. This increases the experimental throughput and broadens our understanding of the fundamental phenomena. Furthermore, it presents a theoretical foundation for developing a concept of materials by design, where the goal is to achieve a desired functionality. Still, the accuracy that atomistic modelling offers proves to increase the already demanding computational complexity. In this thesis graphene heterostructures and moiré patterns are tackled starting from a tight-binding (TB) atomistic description in real-space, with the use of numerical approaches proposed as an alternative to the traditional exact diagonalisation techniques. Spectral methods that scale linearly with the system size and their implementations in two open-source codes, Pybinding and KITE, offer the possibility to simulate complex large-scale systems, such as the ones investigated in this thesis. 
+PhD dissertation, defended on December 19, 2019.
+
+## Additional links
+
+    [Condensed Matter Theory (CMT) group](https://www.uantwerpen.be/en/research-groups/cmt/research/theses/)
+    [University of Antwerp - Library](https://repository.uantwerpen.be/desktop/irua)
+
+## Abstract 
+
+In the research field of two-dimensional materials, computational modelling proves to be crucial in examining the electronic properties. This increases the experimental throughput and broadens our understanding of the fundamental phenomena. Furthermore, it presents a theoretical foundation for developing a concept of materials by design, where the goal is to achieve a desired functionality. Still, the accuracy that atomistic modelling offers proves to increase the already demanding computational complexity. In this thesis graphene heterostructures and moiré patterns are tackled starting from a tight-binding (TB) atomistic description in real-space, with the use of numerical approaches proposed as an alternative to the traditional exact diagonalisation techniques. Spectral methods that scale linearly with the system size and their implementations in two open-source codes, [Pybinding](https://github.com/dean0x7d/pybinding) and [KITE](https://github.com/quantum-kite/kite), offer the possibility to simulate complex large-scale systems, such as the ones investigated in this thesis. 
 
 Firstly, delaminations in graphene together with a theoretical concept of a graphene diode are discussed. Boundaries between different stacking arrangements in bilayer graphene are proven to host electrostatically induced topological states that can act as transport channels in a nearly dissipationless regime, due to the weak backscattering. Furthermore, boundary states are discussed and directly compared to the experimental measurements in the case of twisted bilayer graphene (tBLG). The effects on the electronic properties and the signatures in the transport are shown.
 
