@@ -2,10 +2,11 @@
 
 PhD dissertation, defended on December 19, 2019.
 
-## Additional links
+Additional links:
 
-    [Condensed Matter Theory (CMT) group](https://www.uantwerpen.be/en/research-groups/cmt/research/theses/)
-    [University of Antwerp - Library](https://repository.uantwerpen.be/desktop/irua)
+[Condensed Matter Theory (CMT) group](https://www.uantwerpen.be/en/research-groups/cmt/research/theses)
+
+[University of Antwerp - Library](https://hdl.handle.net/10067/1652050151162165141)
 
 ## Abstract 
 
